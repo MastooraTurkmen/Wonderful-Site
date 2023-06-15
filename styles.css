@@ -80,7 +80,7 @@ p {
     min-height: 250px;
     text-align: center;
     color: #fff;
-    background: url("images/photo.jpg");
+    background: url("photo.jpg");
     background-size: cover;
     padding-bottom: 1.5em;
 }
