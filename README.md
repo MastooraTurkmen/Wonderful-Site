@@ -4,7 +4,8 @@ On this website, I made a wonderful Traveling site. The edge of a cliff refers t
 
 ## The Site Screenshots
 
-
+## Tablet 
+![Alt text](image-1.png)
 
 ## Desktop 💻
 ![Alt text](image.png)
