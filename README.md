@@ -12,3 +12,8 @@ On this website, I made a wonderful Traveling site. The edge of a cliff refers t
 
 ## Desktop 💻
 ![Alt text](image.png)
+
+
+-----
+
+## For cloning the project 🪛
