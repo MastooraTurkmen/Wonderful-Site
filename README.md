@@ -17,3 +17,11 @@ On this website, I made a wonderful Traveling site. The edge of a cliff refers t
 -----
 
 ## For cloning the project 🪛
+
+```
+# Clone this repository
+$ gh repo clone MastooraTurkmen/Wonderful-Site
+
+
+
+```
