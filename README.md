@@ -22,6 +22,7 @@ On this website, I made a wonderful Traveling site. The edge of a cliff refers t
 # Clone this repository
 $ gh repo clone MastooraTurkmen/Wonderful-Site
 
-
+# Go inside the repository
+$ cd wonderful-site
 
 ```
