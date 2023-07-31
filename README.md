@@ -7,13 +7,13 @@ On this website, I made a wonderful Traveling site. The edge of a cliff refers t
 ## The Site Screenshots
 
 ## Mobile 📱
-![Alt text](image-2.png)
+![Alt text](./Images/image-2.png)
 
 ## Tablet 
-![Alt text](image-1.png)
+![Alt text](./Images/image-1.png)
 
 ## Desktop 💻
-![Alt text](image.png)
+![Alt text](./Images/image.png)
 
 
 -----
@@ -42,7 +42,7 @@ $ cd wonderful-site
    + **Then write your project name and select it**
    + **After selecting here you can see that the project _Wonderful-Site_ and then select the _Deploy Wonderful-Site_ Button**
    + **Now your project is Live**
-   ![Alt text](image-3.png)
+   ![Alt text](./Images/image-3.png)
 
 
 ----
