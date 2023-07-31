@@ -26,3 +26,11 @@ $ gh repo clone MastooraTurkmen/Wonderful-Site
 $ cd wonderful-site
 
 ```
+
+
+----
+
+
+## Deployment 📪
+
++ **How to deploy our project to netlify site?**
