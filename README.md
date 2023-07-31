@@ -37,3 +37,4 @@ $ cd wonderful-site
    + **I use [Netlify App](https://app.netlify.com/) for deploying my projects.**
    + **Go to Netlify site and select Add a new site.**
    + **From here select _Deploy with Github_**
+   + **Then write your project name and select it**
