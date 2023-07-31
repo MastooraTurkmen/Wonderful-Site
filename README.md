@@ -40,3 +40,4 @@ $ cd wonderful-site
    + **Then write your project name and select it**
    + **After selecting here you can see that the project _Wonderful-Site_ and then select the _Deploy Wonderful-Site_ Button**
    + **Now your project is Live**
+   ![Alt text](image-3.png)
